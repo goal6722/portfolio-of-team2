@@ -1,0 +1,3 @@
+소스 코드 내 저작권 표시를 해야 하는 이유와 올바른 방법
+https://haksung.gitbook.io/oss/research/license/copyright-statements
+© 2020 Matija Šuklje <matija@suklje.name>
