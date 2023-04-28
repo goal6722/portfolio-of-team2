@@ -4,7 +4,7 @@
 # 프로젝트 팀 구성원
 [김신혁](https://github.com/909ma)  
 [신동훈](https://github.com/Holorifle)
-
+[이수성](https://github.com/goal6722)
 # 프로젝트 개요  
 프로젝트 개요를 쓰시면 됩니다.
 
