@@ -3,6 +3,7 @@
 
 # 프로젝트 팀 구성원
 [김신혁](https://github.com/909ma)  
+[신동훈](https://github.com/Holorifle)
 
 # 프로젝트 개요  
 프로젝트 개요를 쓰시면 됩니다.
