@@ -1,60 +1,24 @@
-# Project Name
-프로젝트 설명입니다.
+# Portfolio
+HTML5, CSS3, Java Script 숙련도 향상을 위한 프로젝트입니다.
 
 # 프로젝트 팀 구성원
+[이수성](https://github.com/goal6722)  
 [김신혁](https://github.com/909ma)  
-[신동훈](https://github.com/Holorifle)
+[신동훈](https://github.com/Holorifle)  
+[정선호](https://github.com/QQSUNH)  
+[최은지](https://github.com/EunjiCh0i)  
+
 # 프로젝트 개요  
-프로젝트 개요를 쓰시면 됩니다.
+HTML5, CSS3, Java Script를 이용하여 Portfolio 양식을 만듭니다.
 
 ## 목표 요구사항
-1. 목표 요구사항을 적으시면 됩니다.
-
-## 프로젝트 기대 효과
-1. 기대효과 소제목입니다.
-* 기대효과 세부내용입니다.
-
-
-## 요구사항 정의서
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## 테이블 정의서
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## ERD 개체 관계 다이어그램
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## TABLE Model
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## CRUD 매트릭스
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## 트랜잭션 분석서
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## Gantt Chart
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-
-## 프로젝트 일정 관리
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
+메인 화면, 자기 소개, 연락처, 경력, 소속, 스펙, 프로젝트, 기술 스택을 포함해야 합니다.
 
 ## 프로젝트 결과
-* 결과1
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-* 결과2
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-* 결과3
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
-* 결과4
-<img src="/ppt/5. 실시간 매핑 모습.gif" width="45%" height="" title="" alt="1번 이미지"></img>
+* 추후 추가 예정입니다.
 
 ## 프로젝트 개선점
-* 추가하면 됩니다.
+* 추후 추가 예정입니다.
 
 ## 개발 환경
-* 추가하면 됩니다.
+* Visual Studio Code
